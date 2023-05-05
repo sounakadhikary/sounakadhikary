@@ -1,8 +1,16 @@
-# 💫 About Me: 
+# 💫 About Me
+
 🔭 I’m currently working on Java, Springboot, Docker, Kubernetes, Microservice, ReactJS, NextJS<br>👯 I’m looking to collaborate on opensource project<br>🤝 I’m looking for help with OAuth principles, Service Mesh, Kubernetes <br>🌱 I’m currently learning ReactJS, NextJS, Sefvice mesh<br>💬 Ask me about what I am working on<br>📫 How to reach me: sounak.adhikary@gmail.com
 
-## 🌐 Socials:
+## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sounak-adhikary)
+
+# 📁 Repo
+| Name                                     | Tech Stack                             |
+|------------------------------------------|----------------------------------------|
+[Sample Online Movie Booking Backend](https://github.com/online-movie-ticket-booking-backend)| Java, SpringBoot, Lombok, Axon, Kafka, REST Api, Swagger, Tomcat, Maven, MySql, GIT|
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white) ![JUNIT](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
